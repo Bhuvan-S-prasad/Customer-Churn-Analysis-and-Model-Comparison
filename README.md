@@ -18,7 +18,7 @@ This repository is dedicated to analyzing customer churn using various machine l
 
 ## Overview
 Customer churn, or customer attrition, refers to customers stopping their relationship with a business. Understanding and predicting churn is crucial for businesses to retain valuable customers.  
-This project uses machine learning techniques to predict churn and explores how different models perform on a customer churn dataset.  
+This project uses machine learning techniques to predict churn and explores how different models perform on a customer churn dataset. performing EDA and comparing the result of various machine learning algorithm on the dataset
 
 ---
 
